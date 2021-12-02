@@ -1,4 +1,4 @@
-# mysql_interview-
+# mysql_interview
 mysql面试遇到的问题，欢迎提交到issues里，大家一起讨论
 
 大家面试的过程中，遇到数据库的问题，大家集思广益，下次遇到了，就知道怎么回答了。
